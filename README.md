@@ -8,10 +8,8 @@
 <br/> 
 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝚒𝚜 𝚊 𝚍𝚒𝚐𝚒𝚝𝚊𝚕 𝚕𝚊𝚋 🧪 𝚠𝚑𝚎𝚛𝚎 𝙸 𝚎𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝚠𝚒𝚝𝚑 𝚝𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜 𝚊𝚌𝚛𝚘𝚜𝚜 𝚝𝚑𝚎 𝚜𝚝𝚊𝚌𝚔.
 
----
 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢, 𝙸'𝚖 𝚒n 𝚋𝚞𝚒𝚕𝚍-𝚕𝚎𝚊𝚛𝚗-𝚛𝚎𝚙𝚎𝚊𝚝 𝚖𝚘𝚍𝚎 🚧.
 
----
 
 | <img src="assets/developer.gif" width="400"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buggy-bits&theme=react&hide_border=true&layout=compact" width="400"/> |
 |:--:|:--:|
