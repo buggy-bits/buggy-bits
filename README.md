@@ -15,7 +15,7 @@
   <!-- Row of stats -->
   <div style="display: flex; justify-content: center; gap: 20px;  margin: 20px auto;">
     <img
-      src="https://raw.githubusercontent.com/buggy-bits/buggy-bits/assets/developer.gif"
+      src="https://github.com/buggy-bits/buggy-bits/blob/8c23b4f402fc9c82e769ce0e1582be15dcd6ed0f/assets/developer.gif"
       alt="My GitHub Stats"
       style="width: 45%; height: auto; border-radius: 10px;"
     />
