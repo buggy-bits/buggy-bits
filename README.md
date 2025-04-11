@@ -26,10 +26,8 @@
   </div>
 
   <!-- Contribution graph -->
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=buggy-bits&theme=react-dark&hide_border=true&area=true&custom_title=My+Contribution+Graph"
-    style=" border-radius: 10px;"
-  />
+  ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=buggy-bits&theme=react-dark&hide_border=true&area=true&custom_title=My+Contribution+Graph)
+    
 </div>
 
 
