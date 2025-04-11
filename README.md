@@ -11,7 +11,9 @@
 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢, 𝙸'𝚖 𝚒n 𝚋𝚞𝚒𝚕𝚍-𝚕𝚎𝚊𝚛𝚗-𝚛𝚎𝚙𝚎𝚊𝚝 𝚖𝚘𝚍𝚎 🚧.
 
 
-| <img src="assets/developer.gif" width="400"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buggy-bits&theme=react&hide_border=true&layout=compact" width="400"/> |
-|:--:|:--:|
+<p align="center" style="margin-top: 20px;margin-bottom: 20px;">
+    <img src="assets/developer.gif" width="300" alt="developer gif" align="left" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buggy-bits&theme=react&hide_border=true&layout=compact" width="400" alt="Top Languages" align="right" />
+  </p>
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=buggy-bits&theme=react-dark&hide_border=true&area=true&custom_title=My+Contribution+Graph)
