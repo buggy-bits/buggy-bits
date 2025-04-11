@@ -8,27 +8,12 @@
 <br/> 
 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝚒𝚜 𝚊 𝚍𝚒𝚐𝚒𝚝𝚊𝚕 𝚕𝚊𝚋 🧪 𝚠𝚑𝚎𝚛𝚎 𝙸 𝚎𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝚠𝚒𝚝𝚑 𝚝𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜 𝚊𝚌𝚛𝚘𝚜𝚜 𝚝𝚑𝚎 𝚜𝚝𝚊𝚌𝚔.
 
+---
 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢, 𝙸'𝚖 𝚒n 𝚋𝚞𝚒𝚕𝚍-𝚕𝚎𝚊𝚛𝚗-𝚛𝚎𝚙𝚎𝚊𝚝 𝚖𝚘𝚍𝚎 🚧.
 
+---
 
-<div style="display: flex; flex-direction: column; align-items: center; margin: 20px auto;">
-  <!-- Row of stats -->
-  <div style="display: flex; justify-content: center; gap: 20px;  margin: 20px auto;">
-    <img
-      src="https://github.com/buggy-bits/buggy-bits/blob/8c23b4f402fc9c82e769ce0e1582be15dcd6ed0f/assets/developer.gif"
-      alt="My GitHub Stats"
-      style="width: 45%; height: auto; border-radius: 10px;"
-    />
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=buggy-bits&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact"
-      style="width: 45%; border-radius: 10px;"
-    />
-  </div>
+| <img src="assets/developer.gif" width="400"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buggy-bits&theme=react&hide_border=true&layout=compact" width="400"/> |
+|:--:|:--:|
 
-  <!-- Contribution graph -->
-  ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=buggy-bits&theme=react-dark&hide_border=true&area=true&custom_title=My+Contribution+Graph)
-    
-</div>
-
-
-
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=buggy-bits&theme=react-dark&hide_border=true&area=true&custom_title=My+Contribution+Graph)
