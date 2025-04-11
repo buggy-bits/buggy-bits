@@ -13,22 +13,22 @@
 
 <div style="display: flex; flex-direction: column; align-items: center; margin: 20px auto;">
   <!-- Row of stats -->
-  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
+  <div style="display: flex; justify-content: center; gap: 20px;  margin: 20px auto;">
     <img
       src="1709674661110-1.gif"
       alt="My GitHub Stats"
-      style="width: 45%; max-width: 400px; height: auto; border-radius: 10px;"
+      style="width: 45%; height: auto; border-radius: 10px;"
     />
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=buggy-bits&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact"
-      style="width: 45%; max-width: 400px; height: auto; border-radius: 10px;"
+      style="width: 45%; border-radius: 10px;"
     />
   </div>
 
   <!-- Contribution graph -->
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=buggy-bits&theme=react-dark&hide_border=true&area=true&custom_title=My+Contribution+Graph"
-    style=" border-radius: 10px;margin: auto auto; width:800px"
+    style=" border-radius: 10px;"
   />
 </div>
 
