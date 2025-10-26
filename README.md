@@ -1,5 +1,5 @@
 <div style="display: flex; flex-direction: column; align-items: center; margin-top: 20px;margin-bottom: 20px;">
-    <img  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4500&pause=1000&center=true&vCenter=true&width=435&lines=Hello%F0%9F%91%8B%F0%9F%8F%BB%2C+Iam+Sainag"
+    <img  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4500&pause=1000&center=true&vCenter=true&width=435&lines=Hello%F0%9F%91%8B%F0%9F%8F%BB%2C+I+am+Sainag"
     style="width: 100%; height: auto;"
     />
 </div>
