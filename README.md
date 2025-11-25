@@ -11,9 +11,16 @@
 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢, 𝙸'𝚖 𝚒n 𝚋𝚞𝚒𝚕𝚍-𝚕𝚎𝚊𝚛𝚗-𝚛𝚎𝚙𝚎𝚊𝚝 𝚖𝚘𝚍𝚎 🚧.
 
 
-<p align="center" style="margin-top: 20px;margin-bottom: 20px;">
-    <img src="assets/developer.gif" width="300" alt="developer gif" align="left" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buggy-bits&theme=react&hide_border=true&layout=compact" width="400" alt="Top Languages" align="right" />
-  </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Systems-Go_(Golang)-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cache-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/Infra-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Protocol-WebSockets-000000?style=for-the-badge&logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/Logic-Algorithms-FF6C37?style=for-the-badge&logo=leetcode&logoColor=white" />
+</p>
+
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=buggy-bits&theme=react-dark&hide_border=true&area=true&custom_title=My+Contribution+Graph)
